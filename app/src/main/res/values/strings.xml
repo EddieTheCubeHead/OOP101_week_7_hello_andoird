@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week7_hello_world</string>
+    <string name="read">Read file</string>
+    <string name="write">Write file</string>
+    <string name="text_hint">Your text goes here</string>
+    <string name="get_file_name">Give the name of the file</string>
+</resources>
